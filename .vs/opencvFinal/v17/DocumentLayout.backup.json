@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\opencvFinal\\opencvFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{460E6821-D202-425C-8329-60B04596F0E3}|Dll1\\Dll1.vcxproj|C:\\Users\\USER\\opencvFinal\\opencvFinal\\Dll1\\imgFunc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{460E6821-D202-425C-8329-60B04596F0E3}|Dll1\\Dll1.vcxproj|solutionrelative:Dll1\\imgFunc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CC9D28-CBCB-4151-AB85-D8844DECF108}|opencvFinal\\opencvFinal.csproj|c:\\users\\user\\opencvfinal\\opencvfinal\\opencvfinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14CC9D28-CBCB-4151-AB85-D8844DECF108}|opencvFinal\\opencvFinal.csproj|solutionrelative:opencvfinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CC9D28-CBCB-4151-AB85-D8844DECF108}|opencvFinal\\opencvFinal.csproj|c:\\users\\user\\opencvfinal\\opencvfinal\\opencvfinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CC9D28-CBCB-4151-AB85-D8844DECF108}|opencvFinal\\opencvFinal.csproj|solutionrelative:opencvfinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460E6821-D202-425C-8329-60B04596F0E3}|Dll1\\Dll1.vcxproj|C:\\Users\\USER\\opencvFinal\\opencvFinal\\Dll1\\imgFunc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{460E6821-D202-425C-8329-60B04596F0E3}|Dll1\\Dll1.vcxproj|solutionrelative:Dll1\\imgFunc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "imgFunc.h",
+              "DocumentMoniker": "C:\\Users\\USER\\opencvFinal\\opencvFinal\\Dll1\\imgFunc.h",
+              "RelativeDocumentMoniker": "Dll1\\imgFunc.h",
+              "ToolTip": "C:\\Users\\USER\\opencvFinal\\opencvFinal\\Dll1\\imgFunc.h",
+              "RelativeToolTip": "Dll1\\imgFunc.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T05:25:01.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "imgFunc.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\opencvFinal\\opencvFinal\\Dll1\\imgFunc.cpp",
+              "RelativeDocumentMoniker": "Dll1\\imgFunc.cpp",
+              "ToolTip": "C:\\Users\\USER\\opencvFinal\\opencvFinal\\Dll1\\imgFunc.cpp*",
+              "RelativeToolTip": "Dll1\\imgFunc.cpp*",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAcwLUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-09T17:36:49.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\opencvFinal\\opencvFinal\\opencvFinal\\Form1.cs",
+              "RelativeDocumentMoniker": "opencvFinal\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\opencvFinal\\opencvFinal\\opencvFinal\\Form1.cs",
+              "RelativeToolTip": "opencvFinal\\Form1.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAIA5wIAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:36:49.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\opencvFinal\\opencvFinal\\opencvFinal\\Form1.cs",
+              "RelativeDocumentMoniker": "opencvFinal\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\opencvFinal\\opencvFinal\\opencvFinal\\Form1.cs [Design]",
+              "RelativeToolTip": "opencvFinal\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:36:50.214Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
