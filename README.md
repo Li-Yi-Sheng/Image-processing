@@ -60,10 +60,10 @@
 ## 📊 成果展示
 
 ### 🔹 系統畫面
-![system](data0.png)
+![system](system.png)
 
 ### 🔹 原始圖片
-![original](data1.png)
+![original](original.png)
 
 ### 🔹 負片轉換
 ![negative](negative.png)
